@@ -1,4 +1,4 @@
-# Modelagem-de-Reservatorios-de-Petroleo
+# Modelagem de Reservatórios de Petróleo
 Trabalhos desenvolvidos na disciplina de Modelagem de Reservatórios de Petróleo no período 2018.2 referentes ao curso de Engenharia de Computação em UERJ/IPRJ.
 
 Escoamento Monofásico em Meios Porosos:
